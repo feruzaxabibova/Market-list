@@ -1,0 +1,10 @@
+body {
+    background: url(./images/food-bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.form-check-input:checked+.form-check-label {
+    text-decoration: line-through;
+    color: #333;
+}   
